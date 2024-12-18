@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/9e54a55b-8f5d-4ee3-80b1-8ecfb0adddd0
+
 
 ### App Description
 This app is an anime-themed application designed to provide users with detailed information about various anime titles and showcase trending anime. It leverages modern Android development practices to create a smooth and visually appealing user experience. Key features include viewing detailed anime information, browsing trending anime, and using shared element transitions for seamless navigation.
@@ -26,7 +28,4 @@ This app is an anime-themed application designed to provide users with detailed 
    - **Coroutine**: For asynchronous programming, ensuring smooth and responsive UI interactions.
    - **AsyncImage**: For loading images asynchronously in the UI.
    - **Shared Element Transitions**: For creating smooth transitions between UI elements during navigation.
-
-
-https://github.com/user-attachments/assets/9e54a55b-8f5d-4ee3-80b1-8ecfb0adddd0
 
