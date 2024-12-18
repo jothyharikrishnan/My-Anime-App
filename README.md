@@ -21,8 +21,6 @@ This app is an anime-themed application designed to provide users with detailed 
    - `DisplayAnimatedContent`: Handles the animated display of anime content, ensuring a responsive and engaging UI.
 
 ### Tech Stack
-1. **Programming Languages**:
-2. **Frameworks and Libraries**:
    - **Jetpack Compose**: Used for building declarative UIs in a modern, efficient way.
    - **Hilt**: For dependency injection, simplifying code and improving testability.
    - **Coroutine**: For asynchronous programming, ensuring smooth and responsive UI interactions.
