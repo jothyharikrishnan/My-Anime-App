@@ -30,7 +30,9 @@ class TrendingAnimeViewModel @Inject constructor(
                         }
                     }
                     NetworkResponse.Loading -> {
-                        TrendingAnimeState.Loading
+                        _trendingAnimeData.update {
+                            TrendingAnimeState.Loading
+                        }
                     }
                     is NetworkResponse.Success -> {
                         _trendingAnimeData.update {
